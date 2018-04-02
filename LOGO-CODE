@@ -1,0 +1,7 @@
+<div id="header" class="headerSize">
+      <div id="logoContainer">
+          <div id="logo" data-scroll-reveal="enter top move 500px over 2s after 2s">
+              <img src="images/logo/logo.png" alt="logo" title="logo" width="300%">
+          </div>
+      </div>
+  </div>
