@@ -1,0 +1,8 @@
+# Allow everything
+User-agent: *
+Disallow: /images/
+Disallow: /js/
+Disallow: /fonts/
+Disallow: /css/
+Disallow: /assets/
+Allow: /
