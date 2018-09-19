@@ -1,3 +1,6 @@
+# Sitemaps
+Sitemap: http://example.com/sitemap_location.xml
+
 # Allow everything
 User-agent: *
 Disallow: /images/
